@@ -1,0 +1,127 @@
+[
+  {
+    "Name": "Berat",
+    "Surname": "Gunaydin",
+    "DateOfBirth": "2001-07-11",
+    "EmailAddress": "beratgunaydin@abc.com",
+    "Password": "123456789",
+    "Gender": "E"
+  },
+
+  {
+    "Name": "Ali",
+    "Surname": "Veli",
+    "DateOfBirth": "1974-11-27",
+    "EmailAddress": "aliveli@abc.com",
+    "Password": "654546asdsd",
+    "Gender": "E"
+  },
+
+  {
+    "Name": "Ayse",
+    "Surname": "Gundogan",
+    "DateOfBirth": "1987-07-03",
+    "EmailAddress": "aysegundogan@abc.com",
+    "Password": "dfskdaaqd59713",
+    "Gender": "K"
+  },
+
+  {
+    "Name": "Atilla",
+    "Surname": "Baytar",
+    "DateOfBirth": "1981-06-20",
+    "EmailAddress": "atillabaytar@abc.com",
+    "Password": "564646dfgfghhn",
+    "Gender": "E"
+  },
+
+  {
+    "Name": "Kaan",
+    "Surname": "Unal",
+    "DateOfBirth": "1987-09-17",
+    "EmailAddress": "kaanunal@abc.com",
+    "Password": "ldfksai59913",
+    "Gender": "E"
+  },
+
+  {
+    "Name": "Hayri",
+    "Surname": "Adivar",
+    "DateOfBirth": "1940-09-17",
+    "EmailAddress": "hayriadivar@abc.com",
+    "Password": "fgkdkfgk6465",
+    "Gender": "E"
+  },
+
+  {
+    "Name": "Birsel",
+    "Surname": "Gunduz",
+    "DateOfBirth": "1991-07-12",
+    "EmailAddress": "birselgunduz@abc.com",
+    "Password": "5465465423",
+    "Gender": "K"
+  },
+
+  {
+    "Name": "Kamil",
+    "Surname": "Gursoy",
+    "DateOfBirth": "1969-12-07",
+    "EmailAddress": "kamilgursoy@abc.com",
+    "Password": "kfjgoifdlgjmldf546",
+    "Gender": "E"
+  },
+
+  {
+    "Name": "Ferhat",
+    "Surname": "Adiguzel",
+    "DateOfBirth": "1987-07-12",
+    "EmailAddress": "ferhatadiguzel@abc.com",
+    "Password": "1987435",
+    "Gender": "E"
+  },
+
+  {
+    "Name": "Merve",
+    "Surname": "Usta",
+    "DateOfBirth": "1991-09-17",
+    "EmailAddress": "merveusta@abc.com",
+    "Password": "46465134679613554641",
+    "Gender": "K"
+  },
+
+  {
+    "Name": "Ali",
+    "Surname": "Biner",
+    "DateOfBirth": "1994-01-12",
+    "EmailAddress": "alibiner@abc.com",
+    "Password": "159357abc",
+    "Gender": "E"
+  },
+
+  {
+    "Name": "Mustafa",
+    "Surname": "Sasar",
+    "DateOfBirth": "1994-03-19",
+    "EmailAddress": "mustafasasar@gmail.com",
+    "Password": "164521qvk",
+    "Gender": "E"
+  },
+
+  {
+    "Name": "Fatma",
+    "Surname": "Guvenmez",
+    "DateOfBirth": "1981-06-20",
+    "EmailAddress": "fatmaguvenmez@abc.com",
+    "Password": "56564655sd4fdf4gfghhnafvma",
+    "Gender": "E"
+  },
+
+  {
+    "Name": "Mahmut",
+    "Surname": "Tokatcioglu",
+    "DateOfBirth": "1965-02-18",
+    "EmailAddress": "mahmuttokatcioglu@abc.com",
+    "Password": "13579",
+    "Gender": "E"
+  }
+]

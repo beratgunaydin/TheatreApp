@@ -1,0 +1,54 @@
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.csproj.AssemblyReference.cache
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.AssemblyInfoInputs.cache
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.AssemblyInfo.cs
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.exe
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.deps.json
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.runtimeconfig.json
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.runtimeconfig.dev.json
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.dll
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\ref\OOPFinalProject.dll
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.pdb
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.dll
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\ref\OOPFinalProject.dll
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.pdb
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.genruntimeconfig.cache
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Berat\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.csproj.CopyComplete
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.exe
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.deps.json
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.runtimeconfig.json
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.runtimeconfig.dev.json
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.dll
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.pdb
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.csproj.AssemblyReference.cache
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.AssemblyInfoInputs.cache
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.AssemblyInfo.cs
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.csproj.CoreCompileInputs.cache
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.csproj.CopyComplete
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.dll
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\refint\OOPFinalProject.dll
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.pdb
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.genruntimeconfig.cache
+D:\Berat Bilgisayar\Bilgisayar Mühendisliği\3. Sınıf\Alttan Dersler-Güz\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\ref\OOPFinalProject.dll
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.exe
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.deps.json
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.runtimeconfig.json
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.runtimeconfig.dev.json
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.dll
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\OOPFinalProject.pdb
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.csproj.AssemblyReference.cache
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.AssemblyInfoInputs.cache
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.AssemblyInfo.cs
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.csproj.CopyComplete
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.dll
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\refint\OOPFinalProject.dll
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.pdb
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\OOPFinalProject.genruntimeconfig.cache
+C:\Users\berat\OneDrive\Masaüstü\Yeni klasör (4)\Nesneye Yönelik Programlama\Nesneye Yönelik Programlama Final Projesi\OOPFinalProject\OOPFinalProject\obj\Debug\net5.0\ref\OOPFinalProject.dll

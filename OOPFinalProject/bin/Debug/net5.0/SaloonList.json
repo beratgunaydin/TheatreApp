@@ -1,0 +1,31 @@
+[
+  {
+    "ID": 1,
+    "SeatingCapacity": 60
+  },
+
+  {
+    "ID": 2,
+    "SeatingCapacity": 75
+  },
+
+  {
+    "ID": 3,
+    "SeatingCapacity": 55
+  },
+
+  {
+    "ID": 4,
+    "SeatingCapacity": 80
+  },
+
+  {
+    "ID": 5,
+    "SeatingCapacity": 90
+  },
+
+  {
+    "ID": 6,
+    "SeatingCapacity": 85
+  }
+]

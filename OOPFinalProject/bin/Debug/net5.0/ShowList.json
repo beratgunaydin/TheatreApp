@@ -1,0 +1,89 @@
+[
+  {
+    "ID": 1,
+    "Name": "Tamamen Doluyuz",
+    "Author": "Becky Mode",
+    "Director": "Elif Erdal",
+    "ShowDate": "2022-02-15T19:00:00.002Z",
+    "TicketPrice": 150,
+    "ShowTime": "1 Saat 25 Dakika",
+    "SaloonID": 1
+  },
+
+  {
+    "ID": 2,
+    "Name": "Tek Basima",
+    "Author": "Peter Quilter",
+    "Director": "Tayfun Erarslan",
+    "ShowDate": "2022-02-17T17:00:00.002Z",
+    "TicketPrice": 130,
+    "ShowTime": "1 Saat 20 Dakika",
+    "SaloonID": 2
+  },
+
+  {
+    "ID": 3,
+    "Name": "Macin Adami",
+    "Author": "Clint Dyer ve Roy Williams",
+    "Director": "Kayhan Berkin",
+    "ShowDate": "2022-02-18T15:00:00.002Z",
+    "TicketPrice": 110,
+    "ShowTime": "1 Saat 15 Dakika",
+    "SaloonID": 4
+  },
+
+  {
+    "ID": 4,
+    "Name": "Kosovali Peer Gynt",
+    "Author": "Yeton Neziray",
+    "Director": "Saydam Yeniay",
+    "ShowDate": "2022-02-15T18:30:00.002Z",
+    "TicketPrice": 120,
+    "ShowTime": "2 saat 15 dakika",
+    "SaloonID": 3
+  },
+
+  {
+    "ID": 5,
+    "Name": "Yol",
+    "Author": "Ozan Ucar",
+    "Director": "Ozan Ucar",
+    "ShowDate": "2022-02-16T19:30:00.002Z",
+    "TicketPrice": 110,
+    "ShowTime": "2 saat 15 dakika",
+    "SaloonID": 6
+  },
+
+  {
+    "ID": 6,
+    "Name": "Gazale (Uzun Gece)",
+    "Author": "Ýskender Pala",
+    "Director": "Hidayet Erdinc",
+    "ShowDate": "2022-02-19T15:30:00.002Z",
+    "TicketPrice": 115,
+    "ShowTime": "1 saat 40 dakika",
+    "SaloonID": 4
+  },
+
+  {
+    "ID": 7,
+    "Name": "Bir Peri Masali Radyum Kizlari",
+    "Author": "Karden Kasaplar",
+    "Director": "LAcin Ceylan",
+    "ShowDate": "2022-02-18T14:30:00.002Z",
+    "TicketPrice": 90,
+    "ShowTime": "2 saat 35 dakika",
+    "SaloonID": 3
+  }
+
+]
+
+
+//public int ID { get { return this.id; } set { this.id = value; } }
+//public string Name { get { return this.name; } set { this.name = value; } }
+//public string Author { get { return this.author; } set { this.author = value; } }
+//public string Director { get { return this.director; } set { this.director = value; } }
+//public DateTime ShowDate { get { return this.show_date; } set { this.show_date = value; } }
+//public double TicketPrice { get { return this.ticket_price; } set { this.ticket_price = value; } }
+//ShowTime
+//public Saloon SaloonInformations { get { return this.saloon_informations; } set { this.saloon_informations = value; } }      
